@@ -1,0 +1,20 @@
+package de.unistuttgart.vis.dsass2020.ex00.p2;
+
+import java.util.*;
+
+public class VariableStorage<T> implements IVariableStorage<T> {
+	private Stack<T> st = new Stack<T>();
+
+	public void set(T var) {
+		st.push(var);
+	}
+
+	public T get() {
+		if (!st.empty()) {
+			return st.pop();
+		} else {
+			return null;
+		}
+	}
+
+}
