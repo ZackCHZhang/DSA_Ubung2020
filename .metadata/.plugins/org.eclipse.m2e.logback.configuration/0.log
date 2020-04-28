@@ -416,3 +416,626 @@
 2020-04-23 11:33:25,078 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex00_ZhangBianHe_project\src\test\resources
 2020-04-23 12:09:19,184 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2020-04-23 13:11:39,273 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-28 08:25:48,748 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-28 08:27:26,086 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.unistuttgart.vis.dsass2019.ex01:Ex01_LastnamesOfMembers_project:0.0.1-SNAPSHOT @ E:\java\Ex01_LastnamesOfMembers_project\pom.xml.
+2020-04-28 08:27:26,923 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ex01_LastnamesOfMembers_project/src/main/java
+2020-04-28 08:27:26,927 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ex01_LastnamesOfMembers_project/src/test/java
+2020-04-28 08:27:27,126 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-04-28 08:27:27,763 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 08:27:27,763 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 08:27:27,765 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 08:27:27,765 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 08:54:46,249 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 08:54:46,249 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 08:54:46,250 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 08:54:46,250 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 08:58:42,842 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 08:58:42,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 08:58:42,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 08:58:42,843 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 09:03:14,219 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 09:03:14,220 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 09:03:14,220 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 09:03:14,220 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 09:45:22,392 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 09:45:22,392 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 09:45:22,393 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 09:45:22,393 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 13:43:55,544 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-28 13:43:56,518 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 13:43:56,518 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex00_ZhangBianHe_project\src\main\resources
+2020-04-28 13:43:56,519 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 13:43:56,520 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex00_ZhangBianHe_project\src\test\resources
+2020-04-28 18:39:54,424 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:39:54,424 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:39:54,425 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:39:54,425 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:53:21,345 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:53:21,345 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:53:21,346 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:53:21,346 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:54:58,556 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:54:58,556 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:54:58,557 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:54:58,557 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:56:10,910 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:56:10,910 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:56:10,910 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:56:10,911 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:56:22,745 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:56:22,745 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:56:22,745 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:56:22,745 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:56:38,498 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:56:38,498 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:56:38,498 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:56:38,499 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:58:40,424 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:58:40,424 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:58:40,425 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:58:40,425 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 18:58:54,324 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:58:54,324 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 18:58:54,324 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 18:58:54,324 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:00:39,214 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:00:39,214 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:00:39,215 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:00:39,215 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:01:24,789 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:01:24,789 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:01:24,790 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:01:24,790 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:02:39,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:02:39,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:02:39,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:02:39,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:04:14,713 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:04:14,713 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:04:14,714 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:04:14,714 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:18:16,469 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:18:16,469 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:18:16,469 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:18:16,470 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:18:42,568 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:18:42,568 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:18:42,569 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:18:42,569 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:20:51,331 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:20:51,331 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:20:51,333 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:20:51,333 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:22:20,610 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:22:20,610 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:22:20,610 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:22:20,610 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:29:27,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:29:27,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:29:27,526 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:29:27,526 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:30:37,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:30:37,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:30:37,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:30:37,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:31:07,018 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:07,018 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:31:07,018 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:07,019 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:31:22,617 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:22,617 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:31:22,617 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:22,618 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:31:44,435 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:44,435 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:31:44,435 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:44,435 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:31:54,806 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:54,806 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:31:54,807 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:31:54,807 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:32:18,287 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:32:18,287 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:32:18,287 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:32:18,287 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:32:42,312 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:32:42,312 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:32:42,313 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:32:42,313 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:33:06,384 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:33:06,384 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:33:06,384 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:33:06,384 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:33:29,022 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:33:29,022 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:33:29,022 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:33:29,022 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:34:15,605 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:34:15,605 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:34:15,606 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:34:15,606 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:34:39,136 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:34:39,137 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:34:39,137 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:34:39,137 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:36:09,134 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:36:09,134 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:36:09,134 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:36:09,134 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:37:54,176 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:37:54,176 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:37:54,176 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:37:54,176 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:38:10,960 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:38:10,960 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:38:10,961 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:38:10,961 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:38:24,457 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:38:24,457 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:38:24,458 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:38:24,458 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:39:52,380 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:39:52,380 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:39:52,381 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:39:52,381 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:39:56,361 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:39:56,362 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:39:56,362 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:39:56,362 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:40:12,782 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:40:12,782 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:40:12,783 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:40:12,783 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:40:38,778 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:40:38,778 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:40:38,778 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:40:38,778 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:40:47,964 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:40:47,964 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:40:47,964 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:40:47,964 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:41:12,589 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:41:12,589 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:41:12,589 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:41:12,589 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:41:56,034 [Worker-45: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:41:56,034 [Worker-45: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:41:56,035 [Worker-45: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:41:56,035 [Worker-45: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:43:35,690 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:43:35,690 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:43:35,690 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:43:35,690 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:43:45,970 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:43:45,970 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:43:45,971 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:43:45,971 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:45:45,400 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:45:45,400 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:45:45,401 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:45:45,401 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:46:02,075 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:46:02,076 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:46:02,076 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:46:02,076 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:46:28,005 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:46:28,005 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:46:28,005 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:46:28,005 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:46:44,749 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:46:44,749 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:46:44,749 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:46:44,749 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:48:08,528 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:48:08,528 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:48:08,529 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:48:08,529 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:48:26,976 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:48:26,976 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:48:26,976 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:48:26,976 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:49:02,015 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:49:02,016 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:49:02,016 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:49:02,016 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:49:13,602 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:49:13,602 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:49:13,602 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:49:13,603 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:49:43,257 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:49:43,257 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:49:43,257 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:49:43,257 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:50:03,671 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:50:03,671 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:50:03,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:50:03,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:50:12,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:50:12,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:50:12,525 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:50:12,525 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:51:06,067 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:06,067 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:51:06,067 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:06,067 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:51:18,485 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:18,485 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:51:18,486 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:18,486 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:51:37,013 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:37,013 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:51:37,014 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:37,014 [Worker-49: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:51:48,739 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:48,739 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:51:48,740 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:51:48,740 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:52:11,728 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:11,728 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:52:11,729 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:11,729 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:52:17,581 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:17,581 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:52:17,581 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:17,581 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:52:22,006 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:22,006 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:52:22,007 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:22,007 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:52:44,728 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:44,728 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:52:44,728 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:44,728 [Worker-48: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:52:51,405 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:51,405 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:52:51,405 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:52:51,405 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:53:21,514 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:53:21,514 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:53:21,515 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:53:21,515 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:53:28,294 [Worker-44: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:53:28,294 [Worker-44: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:53:28,295 [Worker-44: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:53:28,295 [Worker-44: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:53:35,050 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:53:35,050 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:53:35,050 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:53:35,050 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:55:25,275 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:55:25,276 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:55:25,276 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:55:25,276 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:55:35,676 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:55:35,677 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:55:35,677 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:55:35,677 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:55:44,910 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:55:44,910 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:55:44,911 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:55:44,911 [Worker-47: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:57:56,138 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:57:56,138 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:57:56,138 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:57:56,138 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:58:13,065 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:58:13,065 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:58:13,065 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:58:13,065 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:58:25,482 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:58:25,483 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:58:25,483 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:58:25,483 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:58:49,769 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:58:49,769 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:58:49,769 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:58:49,769 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:59:05,112 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:05,112 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:59:05,113 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:05,113 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:59:10,381 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:10,381 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:59:10,382 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:10,382 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:59:20,493 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:20,493 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:59:20,493 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:20,493 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:59:43,669 [Worker-51: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:43,669 [Worker-51: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:59:43,669 [Worker-51: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:43,669 [Worker-51: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 19:59:51,853 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:51,853 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 19:59:51,854 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 19:59:51,854 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:00:06,636 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:00:06,636 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:00:06,637 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:00:06,637 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:02:24,616 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:02:24,616 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:02:24,617 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:02:24,617 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:02:38,852 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:02:38,852 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:02:38,853 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:02:38,853 [Worker-52: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:03:15,456 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:03:15,456 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:03:15,457 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:03:15,457 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:03:47,720 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:03:47,720 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:03:47,721 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:03:47,721 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:04:13,722 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:13,722 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:04:13,723 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:13,723 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:04:15,344 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:15,344 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:04:15,345 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:15,345 [Worker-36: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:04:22,368 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:22,368 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:04:22,368 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:22,368 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:04:41,507 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:41,507 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:04:41,507 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:41,507 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:04:51,501 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:51,501 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:04:51,501 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:51,502 [Worker-50: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:04:56,856 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:56,856 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:04:56,857 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:04:56,857 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:06:13,393 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:06:13,393 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:06:13,393 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:06:13,393 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:06:35,335 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:06:35,336 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:06:35,336 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:06:35,336 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:06:53,377 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:06:53,377 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:06:53,377 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:06:53,378 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:09:39,532 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:09:39,532 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:09:39,532 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:09:39,532 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:11:10,631 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:11:10,632 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:11:10,632 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:11:10,632 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:11:48,116 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:11:48,117 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:11:48,117 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:11:48,117 [Worker-55: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:11:51,924 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:11:51,924 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:11:51,925 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:11:51,925 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:12:14,501 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:12:14,501 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:12:14,502 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:12:14,502 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:12:37,202 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:12:37,202 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:12:37,203 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:12:37,203 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:13:00,804 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:13:00,804 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:13:00,804 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:13:00,804 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:13:12,027 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:13:12,027 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:13:12,027 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:13:12,027 [Worker-41: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:22:05,292 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:22:05,292 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:22:05,293 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:22:05,293 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:22:55,112 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:22:55,112 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:22:55,112 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:22:55,112 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:23:37,514 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:23:37,514 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:23:37,515 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:23:37,515 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:56:51,685 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:56:51,685 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:56:51,685 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:56:51,685 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-28 20:59:16,604 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:59:16,605 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-28 20:59:16,605 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-28 20:59:16,605 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:00:05,476 [Worker-64: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:00:05,477 [Worker-64: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:00:05,477 [Worker-64: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:00:05,477 [Worker-64: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:16:04,422 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:04,422 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:16:04,422 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:04,422 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:16:08,157 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:08,157 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:16:08,157 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:08,157 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:16:19,648 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:19,648 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:16:19,649 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:19,649 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:16:35,481 [Worker-69: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:35,481 [Worker-69: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:16:35,482 [Worker-69: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:16:35,482 [Worker-69: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:17:12,562 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:17:12,563 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:17:12,563 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:17:12,563 [Worker-73: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:17:18,902 [Worker-75: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:17:18,902 [Worker-75: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:17:18,903 [Worker-75: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:17:18,903 [Worker-75: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:20:57,248 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:20:57,248 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:20:57,249 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:20:57,249 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:22:32,401 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:22:32,401 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:22:32,402 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:22:32,402 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:22:46,780 [Worker-76: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:22:46,780 [Worker-76: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:22:46,780 [Worker-76: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:22:46,780 [Worker-76: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:27:38,158 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:27:38,158 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:27:38,159 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:27:38,159 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:28:10,445 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:28:10,445 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:28:10,445 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:28:10,445 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:30:54,654 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:30:54,655 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:30:54,655 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:30:54,655 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:31:41,224 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:31:41,224 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:31:41,225 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:31:41,225 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:32:00,391 [Worker-74: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:32:00,391 [Worker-74: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:32:00,391 [Worker-74: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:32:00,391 [Worker-74: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:32:08,687 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:32:08,687 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:32:08,688 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:32:08,688 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:32:33,773 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:32:33,773 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:32:33,773 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:32:33,773 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:35:01,376 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:35:01,376 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:35:01,376 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:35:01,376 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:35:21,033 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:35:21,033 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:35:21,033 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:35:21,033 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:36:18,711 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:36:18,711 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:36:18,711 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:36:18,711 [Worker-81: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:38:35,260 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:38:35,260 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:38:35,260 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:38:35,260 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:39:28,561 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:39:28,561 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:39:28,562 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:39:28,562 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:41:10,590 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:41:10,591 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:41:10,591 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:41:10,591 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:41:43,508 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:41:43,509 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:41:43,509 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:41:43,509 [Worker-79: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:42:47,779 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:42:47,779 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:42:47,779 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:42:47,779 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:43:31,163 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:43:31,163 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:43:31,163 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:43:31,163 [Worker-82: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:44:38,468 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:44:38,468 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:44:38,469 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:44:38,469 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:47:32,804 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:47:32,804 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:47:32,804 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:47:32,804 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:48:39,513 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:48:39,513 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:48:39,514 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:48:39,514 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:49:55,014 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:49:55,014 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:49:55,015 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:49:55,015 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:50:25,335 [Worker-88: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:50:25,335 [Worker-88: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:50:25,335 [Worker-88: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:50:25,335 [Worker-88: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:51:02,436 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:51:02,436 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:51:02,436 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:51:02,436 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:51:55,136 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:51:55,136 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:51:55,137 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:51:55,137 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:52:12,010 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:52:12,011 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:52:12,011 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:52:12,011 [Worker-78: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:52:48,690 [Worker-85: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:52:48,690 [Worker-85: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:52:48,690 [Worker-85: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:52:48,690 [Worker-85: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:53:33,784 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:53:33,784 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:53:33,784 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:53:33,784 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:53:45,877 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:53:45,877 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:53:45,877 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:53:45,877 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:54:06,449 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:54:06,449 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:54:06,449 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:54:06,449 [Worker-86: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:55:36,074 [Worker-84: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:55:36,074 [Worker-84: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:55:36,074 [Worker-84: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:55:36,074 [Worker-84: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:55:53,090 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:55:53,090 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:55:53,091 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:55:53,091 [Worker-87: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:56:05,989 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:56:05,989 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:56:05,989 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:56:05,989 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:56:21,971 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:56:21,971 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:56:21,971 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:56:21,971 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:56:52,802 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:56:52,802 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\main\resources
+2020-04-29 00:56:52,803 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:56:52,803 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_LastnamesOfMembers_project\src\test\resources
+2020-04-29 00:59:10,885 [Worker-91: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.unistuttgart.vis.dsass2019.ex01:Ex01_LastnamesOfMembers_project:0.0.1-SNAPSHOT @ E:\java\Ex01_ZhangBianHe_project\pom.xml.
+2020-04-29 00:59:11,291 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:59:11,291 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\main\resources
+2020-04-29 00:59:11,291 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:59:11,291 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\test\resources
+2020-04-29 00:59:12,365 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:59:12,365 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\main\resources
+2020-04-29 00:59:12,366 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 00:59:12,366 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\test\resources

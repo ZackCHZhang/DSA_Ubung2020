@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.4.25)  26 APR 2020 11:29
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.4.25)  26 APR 2020 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -92,6 +92,6 @@ Here is how much of TeX's memory you used:
  18146 multiletter control sequences out of 15000+600000
  535138 words of font info for 41 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 24i,10n,45p,252b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,10n,45p,269b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Ex00_ZhangBianHe.pdf (2 pages).
