@@ -39,7 +39,7 @@ public class SpeedListTest {
 	
 	@Test
 	public void testApList() throws Exception{
-		int lang =20;
+		int lang =11;
 		this.ListApInit(lang);
 		for(int i=0;i<lang;i++) {
 			assertEquals(i,(int) list2.getElementAt(i));

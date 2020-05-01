@@ -1039,3 +1039,12 @@
 2020-04-29 00:59:12,365 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\main\resources
 2020-04-29 00:59:12,366 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-29 00:59:12,366 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\test\resources
+2020-04-29 09:57:34,016 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-29 09:57:35,875 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 09:57:35,876 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex00_ZhangBianHe_project\src\main\resources
+2020-04-29 09:57:35,878 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 09:57:35,878 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex00_ZhangBianHe_project\src\test\resources
+2020-04-29 09:58:06,953 [Worker-30: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 09:58:06,953 [Worker-30: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\main\resources
+2020-04-29 09:58:06,954 [Worker-30: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-29 09:58:06,954 [Worker-30: Launching SpeedListTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\java\Ex01_ZhangBianHe_project\src\test\resources
