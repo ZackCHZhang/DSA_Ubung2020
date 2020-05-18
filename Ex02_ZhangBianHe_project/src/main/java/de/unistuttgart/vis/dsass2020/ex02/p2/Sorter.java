@@ -20,17 +20,18 @@ public class Sorter {
 		
 	public static <T extends Comparable<T>> void selectionSort(ISimpleList<T> list) {
 		// START SOLUTION
-		int p=list.size()-1;
-		while(p>=0) {
-			int maxPos=p;
-			for(int i=0;i<p;i++) {
-				if(list.get(i).compareTo(list.get(maxPos))>0) {
-					maxPos=i;
-				}
-			}
-			list.swap(p, maxPos);
-			p--;
-		}
+		  int p=list.size()-1;
+		  int j=0;
+		  while(j<p) {
+		   int minPos=j;
+		   for(int i=j+1;i<=p;i++) {
+		    if(list.get(i).compareTo(list.get(minPos))<0) {
+		     minPos=i;
+		    }
+		   }
+		   list.swap(j, minPos);
+		   j++;
+		  }
 		// END SOLUTION
 	}
 	

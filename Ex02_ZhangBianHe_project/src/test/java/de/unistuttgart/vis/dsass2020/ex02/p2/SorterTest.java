@@ -32,6 +32,7 @@ public class SorterTest {
 		Sorter.selectionSort(list2);
 		for(int i=0;i<6;i++) {
 			assertEquals(arrSorted[i],(int)list2.get(i));
+
 		}
 	}
 	

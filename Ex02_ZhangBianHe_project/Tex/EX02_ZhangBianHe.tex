@@ -66,8 +66,8 @@ $f_3(n)>f_6(n)>f_5(n)>f_1(n)>f_4(n)>f_2(n)$
 
 \section{Aufgabe 2}
 \subsection*{(a)}
-    Zeile 2 ist $O(1)$.Die Schleife Zeile 3 bis Zeile5 ist $n/2$,d.h $O(n)$.Die Schleife Zeile 6 bis 10 inkl inner Schleife und outer Schleife. Es ist $n*(n/2)$, d.h. $O(n^2)$. \\
-    \[O(1)+O(n)+O(n^2)=O(n^2)\]
+    Zeile 2 ist $O(1)$.Die Schleife Zeile 3 bis Zeile5 ist $log_2(n)$,d.h $O(logn)$.Die Schleife Zeile 6 bis 10 inkl inner Schleife und outer Schleife.Aber die erst mal die Result gleich wie Null, und die Schleife beendden. Es ist $O(1)$. \\
+    \[O(1)+O(logn)+O(1)=O(logn)\]
 \subsection*{(b)}
     Das ist ein Rekursive Algorithmen. $V_n=V_{n-1}+V_{n-1}$.D.h. $V_n=2^n$.Aus diese Grund 
     \[O(2^n)\]
