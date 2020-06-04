@@ -113,11 +113,12 @@
                         child{node[black,xshift=-2em]{62}
                                 child{node[red,xshift=2em]{60}}
                                 child{node[red,xshift=-3em]{63}}}}}
-        child{node[black]{71}
-                child{node[black,xshift=2em]{70}}
-                child{node[black]{88}
-                        child{node[red,xshift=2em]{73}}
-                        child{node[red,xshift=-2em]{94}}}};
+        child{node[black,xshift=4em]{88}
+                child{node[red,xshift=4em]{71}
+                        child{node[black,xshift=4em]{70}}
+                        child{node[black,xshift=-1em]{73}}}
+                child{node[black]{94}
+                        child{node[red]{92}}}};
   \end{tikzpicture}
   \subsection*{c.}
 
@@ -147,11 +148,12 @@
                                 child{node[red,xshift=2em]{60}
                                         child{node[red,xshift=-2em]{51}}}
                                 child{node[red,xshift=-3em]{63}}}}}
-        child{node[black]{71}
-                child{node[black,xshift=2em]{70}}
-                child{node[black]{88}
-                        child{node[red,xshift=2em]{73}}
-                        child{node[red,xshift=-2em]{94}}}};
+                                child{node[black,xshift=4em]{88}
+                                child{node[red,xshift=4em]{71}
+                                        child{node[black,xshift=4em]{70}}
+                                        child{node[black,xshift=-1em]{73}}}
+                                child{node[black]{94}
+                                        child{node[red]{92}}}};
   \end{tikzpicture}
   \\Zuerst sucht man die richtige Position, die die Zahl 51 einfügen soll.\\
     % 红黑树结构
@@ -180,11 +182,12 @@
                                     child{node[black,xshift=2em]{60}
                                             child{node[red,xshift=-2em]{51}}}
                                     child{node[black,xshift=-3em]{63}}}}}
-            child{node[black]{71}
-                    child{node[black,xshift=2em]{70}}
-                    child{node[black]{88}
-                            child{node[red,xshift=2em]{73}}
-                            child{node[red,xshift=-2em]{94}}}};
+                                    child{node[black,xshift=4em]{88}
+                                    child{node[red,xshift=4em]{71}
+                                            child{node[black,xshift=4em]{70}}
+                                            child{node[black,xshift=-1em]{73}}}
+                                    child{node[black]{94}
+                                            child{node[red]{92}}}};
       \end{tikzpicture}
       \\Denn die Parent node und die UncleNode sind rot. Dann farbt man die ParntNode und UncleNode schwarz und GrandNode rot. Dann node gleich wie GrandNode.
 \section{Aufgabe 2}
@@ -205,127 +208,127 @@ Zuerst die erst 4 Zähle einfügen.\\
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {22 26 61 64 71};
+    \node {22 26 61 61 71};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {64}
+    \node {61}
         child{node{22 26}}
-        child{node{64 71}};
+        child{node{61 71}};
   \end{tikzpicture}
   \\Dann die weitere Element einfügen:\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {64}
+    \node {61}
         child{node{22 26}}
-        child{node{64 67 71}};
+        child{node{61 67 71}};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {64}
+    \node {61}
         child{node{22 26}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {64}
+    \node {61}
         child{node{22 26 33}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {64}
+    \node {61}
         child{node{22 26 33 40}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {64}
+    \node {61}
         child{node{22 26 33 40 52}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}\\
   Dann noch mal split:\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 64}
+    \node {33 61}
         child{node{22 26}}
         child{node{40 52}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \\Dann weitere einfügen:\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 64}
+    \node {33 61}
         child{node{22 26}}
         child{node{36 40 52}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 64}
+    \node {33 61}
         child{node{22 26}}
         child{node{36 40 43 52}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 64}
+    \node {33 61}
         child{node{22 26}}
         child{node{36 40 43 51 52}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}
   \\noch mal split:\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64}
+    \node {33 43 61}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67 70 71}};
+        child{node{61 67 70 71}};
   \end{tikzpicture}\\
   weitere einfügen:\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64}
+    \node {33 43 61}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67 70 71 72}};
+        child{node{61 67 70 71 72}};
   \end{tikzpicture}\\
   split:\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64 70}
+    \node {33 43 61 70}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67}}
+        child{node{61 67}}
         child{node{71 72}};
   \end{tikzpicture}\\
   weiter:\\
@@ -333,33 +336,33 @@ Zuerst die erst 4 Zähle einfügen.\\
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64 70}
+    \node {33 43 61 70}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67}}
+        child{node{61 67}}
         child{node{71 72 81}};
   \end{tikzpicture}\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64 70}
+    \node {33 43 61 70}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67}}
+        child{node{61 67}}
         child{node{71 72 81 83}};
   \end{tikzpicture}\\
   \begin{tikzpicture}[sibling distance=8em,
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64 70}
+    \node {33 43 61 70}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67}}
+        child{node{61 67}}
         child{node{71 72 74 81 83}};
   \end{tikzpicture}\\
   split:
@@ -367,13 +370,42 @@ Zuerst die erst 4 Zähle einfügen.\\
     every node/.style = {shape=rectangle, rounded corners,
       draw, align=center,
       top color=white, bottom color=blue!20}]]
-    \node {33 43 64 70}
+    \node {33 43 61 70}
         child{node{22 26}}
         child{node{36 40}}
         child{node{51 52}}
-        child{node{64 67}}
+        child{node{61 67}}
         child{node[xshift=-3em]{74}
                 child{node{71 72}}
                 child{node[xshift=-2em]{81 83}}};
+  \end{tikzpicture}\\
+
+  \begin{tikzpicture}[sibling distance=8em,
+    every node/.style = {shape=rectangle, rounded corners,
+      draw, align=center,
+      top color=white, bottom color=blue!20}]]
+    \node {33 43 61 70 74}
+        child{node{22 26}}
+        child{node{36 40}}
+        child{node{51 52}}
+        child{node{61 67}}
+        child{node{71 72}}
+        child{node{81 83}};
+  \end{tikzpicture}\\
+
+  \begin{tikzpicture}[sibling distance=8em,
+    every node/.style = {shape=rectangle, rounded corners,
+      draw, align=center,
+      top color=white, bottom color=blue!20}]]
+    \node {61}
+        child{node{33 43}
+                child{node{22 26}}
+                child{node[xshift=-3em]{36 40}}
+                child{node[xshift=-6em]{51 52}}}
+        child{node{70 74}
+                child{node[xshift=6em]{61 67}}
+                child{node[xshift=3em]{71 72}}
+                child{node[xshift=2em]{81 83}}};
+
   \end{tikzpicture}\\
 \end{document}
