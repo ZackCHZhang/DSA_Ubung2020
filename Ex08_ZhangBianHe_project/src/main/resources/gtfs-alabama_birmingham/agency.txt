@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+BJCTA,Birmingham,https://maxtransit.org,America/Chicago,en,(205) 521-0101,https://maxtransit.org/fares-and-passes/

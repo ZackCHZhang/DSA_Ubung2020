@@ -1,0 +1,23 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2,BJCTA,"17","Eastwood Mall",,3,http://realtimebjcta.availtec.com/InfoPoint/,E15D46,FFFFFF
+4,BJCTA,"1","South Bessemer",,3,http://realtimebjcta.availtec.com/InfoPoint/,C00000,FFFFFF
+5,BJCTA,"12","Highland",,3,http://realtimebjcta.availtec.com/InfoPoint/,5383AB,FFFFFF
+6,BJCTA,"14","Idlewild Palisades",,3,http://realtimebjcta.availtec.com/InfoPoint/,FB739B,FFFFFF
+7,BJCTA,"18","Fountain Heights",,3,http://realtimebjcta.availtec.com/InfoPoint/,5B077F,FFFFFF
+8,BJCTA,"20","Airport",,3,http://realtimebjcta.availtec.com/InfoPoint/,AE5A4A,FFFFFF
+11,BJCTA,"22","Tarrant",,3,http://realtimebjcta.availtec.com/InfoPoint/,838F77,FFFFFF
+12,BJCTA,"23","North Birmingham",,3,http://realtimebjcta.availtec.com/InfoPoint/,21FDDA,FFFFFF
+13,BJCTA,"25","Centerpoint",,3,http://realtimebjcta.availtec.com/InfoPoint/,003F89,FFFFFF
+14,BJCTA,"26","Jeff State",,3,http://realtimebjcta.availtec.com/InfoPoint/,8DA780,FFFFFF
+16,BJCTA,"280","Highway 280",,3,http://realtimebjcta.availtec.com/InfoPoint/,6C5D55,FFFFFF
+17,BJCTA,"3","Jefferson Wenonah",,3,http://realtimebjcta.availtec.com/InfoPoint/,209FC8,FFFFFF
+18,BJCTA,"31","Highway 31 South",,3,http://realtimebjcta.availtec.com/InfoPoint/,B47695,FFFFFF
+21,BJCTA,"40","Fairmont",,3,http://realtimebjcta.availtec.com/InfoPoint/,94F0B5,FFFFFF
+24,BJCTA,"43","Zoo",,3,http://realtimebjcta.availtec.com/InfoPoint/,E4422E,FFFFFF
+26,BJCTA,"45","Bessemer",,3,http://realtimebjcta.availtec.com/InfoPoint/,65D411,FFFFFF
+27,BJCTA,"48","South Powderly",,3,http://realtimebjcta.availtec.com/InfoPoint/,ECB7B0,FFFFFF
+28,BJCTA,"5","Ensley Wylam Fairfield",,3,http://realtimebjcta.availtec.com/InfoPoint/,80CEE4,FFFFFF
+32,BJCTA,"6","Pratt Ensley",,3,http://realtimebjcta.availtec.com/InfoPoint/,8797B1,FFFFFF
+48,BJCTA,"80","Operator Shuttle",,3,http://realtimebjcta.availtec.com/InfoPoint/,FF0000,FFFFFF
+50,BJCTA,"90","Magic City Connector",,3,http://realtimebjcta.availtec.com/InfoPoint/,12AB89,FFFFFF
+62,BJCTA,"78","Forestdale Adamsville",,3,http://realtimebjcta.availtec.com/InfoPoint/,FF0000,FFFFFF
